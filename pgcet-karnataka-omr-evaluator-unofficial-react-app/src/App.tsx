@@ -337,7 +337,7 @@ export default function App() {
           <div className="bg-slate-800 px-3 py-1.5 rounded text-xs font-mono border border-slate-700 hidden sm:block">
             <span className="text-slate-500">SESSION:</span> CS_MORNING
           </div>
-          <div className="bg-blue-600 px-3 py-1.5 rounded text-xs font-semibold">ADMIN PANEL</div>
+          <div className="bg-blue-600 px-3 py-1.5 rounded text-xs font-semibold">UnOfficial KEA PGCET CS evaluator</div>
         </div>
       </header>
 
@@ -720,7 +720,8 @@ export default function App() {
           </div>
         </div>
         <div className="text-[10px] font-bold text-slate-400 uppercase">
-          Karnataka Examination Authority © 2024
+         <a href='https://dominantmindsacademy.pages.dev/' target='_blank' className="text-[10px] font-bold text-green-400 lowercase">dominantmindsacademy.pages.dev</a> Dominant Mind Automations 
+
         </div>
       </footer>
     </div>
