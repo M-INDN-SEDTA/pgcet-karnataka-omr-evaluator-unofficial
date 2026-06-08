@@ -130,7 +130,7 @@ Navigate to the engine directory, configure your localized environment dependenc
 
 ```bash
 cd python-omr-engine
-pip install pdfplumber matplotlib numpy pandas
+pip install -r requirements.txt
 jupyter notebook omr_processor.ipynb
 
 ```
