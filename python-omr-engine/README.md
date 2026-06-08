@@ -9,5 +9,3 @@ npm run dev
 
 ```
 # Note: Before you run above please upload/add your center wise pdf in public/pdf fodler for ex: public/pdf/102.pdf
-
-
