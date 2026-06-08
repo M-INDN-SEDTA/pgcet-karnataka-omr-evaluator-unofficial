@@ -121,6 +121,10 @@ if row_delta > 35:
 ## 🛠️ Installation & Quick Start
 
 ### 🐍 running the Python Data Science Engine
+```bash
+git clone https://github.com/M-INDN-SEDTA/pgcet-karnataka-omr-evaluator-unofficial.git
+cd pgcet-karnataka-omr-evaluator-unofficial
+```
 
 Navigate to the engine directory, configure your localized environment dependencies, and run the notebook to evaluate target sheets locally:
 
