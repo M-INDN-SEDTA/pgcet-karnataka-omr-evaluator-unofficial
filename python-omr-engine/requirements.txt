@@ -1,0 +1,8 @@
+pdfplumber
+pandas
+numpy
+Pillow
+matplotlib
+pdf2image
+ipykernel
+jupyter
