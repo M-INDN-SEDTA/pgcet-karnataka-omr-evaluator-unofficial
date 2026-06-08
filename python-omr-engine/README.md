@@ -3,7 +3,7 @@
 Spin up the fast client environment to interact with the visual interface wrapper:
 
 ```bash
-cd react-app
+cd pgcet-karnataka-omr-evaluator-unofficial-react-app
 npm install
 npm run dev
 
