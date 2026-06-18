@@ -32,7 +32,17 @@ An advanced, dual-engine document evaluation workspace. This repository pairs a 
 </div>
 
 ---
-
+## Software Engineering Concepts Used
+- Computer Vision
+- Optical Mark Recognition (OMR)
+- Image Alignment
+- Signal Processing
+- Matrix Analysis
+- Client-Side Document Processing
+- PDF Parsing
+- Data Analytics
+- Type-Safe Frontend Development
+- Local-First Processing Architecture
 
 ## 📁 Repository Structure
 
